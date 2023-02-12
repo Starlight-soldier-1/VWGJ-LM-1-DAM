@@ -1,0 +1,121 @@
+@font-face {
+  font-family: "japanese_2020";
+  src: url("Fuentes/japanese_2020/JAPANESE_2020.ttf");
+}
+
+body {
+  background-color: #2B213A;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container {
+    display: flex;
+    flex-direction: row;
+  }
+  a{
+    color: rgb(0, 219, 235);
+  }
+  .navigation-menu {
+    max-height: 1150px;
+    padding: 10px;
+    border: 2px solid #3e22a5;
+    background-color:rgb(35, 22, 66);
+    box-shadow: 0 0 10px #708aff;
+    color: rgb(255, 255, 255);
+    animation: neon 1s ease-in-out infinite alternate;
+  }
+  
+  @keyframes neon {
+    to {
+      box-shadow: 0 0 20px #00ffff;
+    }
+  }
+  .main-content {
+    flex: 1;
+    padding: 20px;
+  }
+  header {
+    border: 2px solid #00FFFF; /* Color neon */
+    padding: 10px; /* Espacio dentro del borde */
+    text-align: center; /* Alineación centrada */
+    animation: neon 1s ease-in-out infinite alternate; /* Animación neon */
+  }
+  
+  p {
+    margin: 0; /* Elimina el margen por defecto */
+    padding: 10px; /* Agrega un padding para separarlo del borde */
+  }
+  
+  @keyframes neon {
+    from {
+      box-shadow: 0 0 5px #00FFFF; /* Color neon */
+    }
+    to {
+      box-shadow: 0 0 20px #00FFFF; /* Color neon */
+    }
+  }
+.content{
+  float: left;
+  width: 50%;
+  height: 300px;
+}
+.clearfix {
+    clear: both;
+}
+#titulo {
+    font-size: 70px;
+    font-family: "japanese_2020";
+    color: rgb(162, 231, 0);
+    border: 2px solid #0077ff; /* Color neon */
+    padding: 10px; /* Espacio dentro del borde */
+    text-align: center; /* Alineación centrada */
+    animation: neon 1s ease-in-out infinite alternate; /* Animación neon */
+  }
+  
+  p {
+    margin: 10px; /* Elimina el margen por defecto */
+    padding: 10px; /* Agrega un padding para separarlo del borde */
+  }
+  
+  @keyframes neon {
+    from {
+      box-shadow: 0 0 5px #ff00d4; /* Color neon */
+    }
+    to {
+      box-shadow: 0 0 20px #e5ff00; /* Color neon */
+    }
+  }
+.top{
+  color: lightpink;
+}
+table, th, td {
+    border: 2px solid;
+    padding: 8px;
+    animation: neon 1s ease-in-out infinite alternate;
+  }
+img{
+  width: 20%;
+}
+.gj-10{
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  background-color: red;
+  padding: 2px;
+  font-size: x-large;
+}
+.AS-19{
+  font-family: Arial, Helvetica, sans-serif;
+  color: black;
+  font-weight: bold;
+  background-color: #FFB64A;
+  padding: 2px;
+  font-size: x-large;
+}
+.AS-356{
+  font-family: Arial, Helvetica, sans-serif;
+  color: black;
+  font-weight: bold;
+  background-color: yellow;
+  padding: 2px;
+  font-size: x-large;
+}

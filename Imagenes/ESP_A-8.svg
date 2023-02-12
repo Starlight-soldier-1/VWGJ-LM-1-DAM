@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 211.66666 105.83333"
+   height="400"
+   width="800">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0.70951343,-83.133828)"
+     id="layer1">
+    <rect
+       y="85.779671"
+       x="1.9363198"
+       height="100.54166"
+       width="206.375"
+       id="rect1196"
+       style="opacity:1;fill:#19408b;fill-opacity:1;stroke:#ffffff;stroke-width:5.29166651;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       id="text1200"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:98.4312973px;line-height:125%;font-family:'Roadgeek 2005 Series EM';-inkscape-font-specification:'Roadgeek 2005 Series EM';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       aria-label="A-8">
+      <path
+         id="path1384"
+         style="fill:#ffffff;stroke-width:0.26458332px"
+         d="M 77.475396,169.12341 71.175793,153.57127 H 45.091499 l -6.299603,15.55214 H 24.71622 l 26.576451,-66.14583 h 13.68195 l 26.57645,66.14583 z m -18.997241,-47.24702 -8.071366,18.50508 h 15.453714 z" />
+      <path
+         id="path1386"
+         style="fill:#ffffff;stroke-width:0.26458332px"
+         d="m 96.317303,152.19323 v -13.38666 h 23.131357 v 13.38666 z" />
+      <path
+         id="path1388"
+         style="fill:#ffffff;stroke-width:0.26458332px"
+         d="m 181.49421,148.25598 q 0,4.62627 -1.96862,8.95725 -1.96863,4.33097 -5.70902,7.28391 -3.1498,2.55922 -8.07136,4.23255 -4.92157,1.5749 -10.63058,1.5749 -6.98863,0 -12.8945,-2.16549 -5.80745,-2.16549 -9.05568,-6.20117 -2.46079,-2.95294 -3.83882,-6.39804 -1.27961,-3.54352 -1.27961,-7.28391 0,-9.25254 6.89019,-15.45372 -2.26392,-2.26392 -3.54353,-5.51215 -1.2796,-3.24823 -1.2796,-6.49646 0,-4.33098 1.87019,-7.77608 1.8702,-3.54352 5.11843,-5.90587 3.34666,-2.46079 7.8745,-3.74039 4.62627,-1.37804 10.13843,-1.37804 5.51215,0 9.94156,1.37804 4.52784,1.2796 7.67764,3.74039 3.24823,2.36235 4.92156,5.90587 1.77177,3.4451 1.77177,7.77608 0,3.64195 -1.08275,6.39803 -1.08274,2.75608 -3.54352,5.61058 3.44509,3.14981 5.01999,6.98863 1.67333,3.74039 1.67333,8.46509 z m -15.05998,-27.75763 q 0,-2.46078 -3.05137,-3.83882 -3.05137,-1.47647 -8.26823,-1.47647 -5.31529,0 -8.56353,1.47647 -3.24823,1.37804 -3.24823,3.83882 0,2.65765 3.24823,4.13412 3.24824,1.47647 8.56353,1.47647 5.21686,0 8.26823,-1.47647 3.05137,-1.47647 3.05137,-4.13412 z m 2.06705,27.75763 q 0,-4.33098 -3.44509,-6.49647 -3.4451,-2.26392 -9.94156,-2.26392 -6.49647,0 -10.23686,2.26392 -3.64196,2.16549 -3.64196,6.49647 0,4.23254 3.64196,6.59489 3.74039,2.26392 10.23686,2.26392 6.59489,0 9.94156,-2.26392 3.44509,-2.36235 3.44509,-6.59489 z" />
+    </g>
+  </g>
+</svg>

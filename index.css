@@ -1,0 +1,69 @@
+@font-face {
+    font-family: "Batman";
+    src: url("Fuentes/batman_forever/batmfa__.ttf");
+  }
+body{
+    display: inline-flex;
+    background-image: url(Imagenes/vapor1.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    align-items: center;
+    justify-content: center;
+}
+.Gijon{
+background-color: lightblue;
+border: 0px solid #000;
+border-top-right-radius: 10%;
+border-bottom-left-radius: 10%;
+padding: 10px;
+margin-left: 630px;
+display: inline-block;
+color: purple;
+letter-spacing: 4px;
+transition: 0.2s;
+overflow: hidden;
+display: flex;
+margin-right: 50px;
+}
+.Gijon:hover{
+    background: pink;
+    box-shadow: 0 0 10px pink, 0 0 40px pink, 0 0 80px pink;
+    transition: 1s;
+}
+.N-632{
+    background-color: lightblue;
+    border: 0px solid #000;
+    padding: 10px;
+    display: inline-block;
+    color: purple;
+    letter-spacing: 4px;
+    transition: 0.2s;
+    overflow: hidden;
+    display: flex;
+    margin-left: 50px;
+    border-top-right-radius: 10%;
+    border-bottom-left-radius: 10%;
+    }
+    .N-632:hover{
+        background: pink;
+        box-shadow: 0 0 10px pink, 0 0 40px pink, 0 0 80px pink;
+        transition: 1s;
+    }
+.Selecciona{
+    position: absolute;
+    left: 40%;
+    right: 40%;
+    bottom: 70%;
+    font-family: "Batman";
+    text-align: center;
+    color: pink;
+    background: purple;
+    padding: 1%;
+    font-weight: bold;
+    font-size: x-large;
+}
+.Selecciona:hover{
+    background: purple;
+    box-shadow: 0 0 10px black, 0 0 40px black, 0 0 80px black;
+    transition: 0s;
+}

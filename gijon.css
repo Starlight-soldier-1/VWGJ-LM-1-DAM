@@ -2,7 +2,18 @@
   font-family: "japanese_2020";
   src: url("Fuentes/japanese_2020/JAPANESE_2020.ttf");
 }
-
+@font-face {
+  font-family: "digital_7";
+  src: url("Fuentes/digital_7/digital-7\ \(mono\).ttf");
+}
+@font-face {
+  font-family: "Batman";
+  src: url("Fuentes/batman_forever/batmfa__.ttf");
+}
+.bandera{
+  width: 100px;
+  height: 50px;
+}
 body {
   background-color: #2B213A;
   color: white;
@@ -17,6 +28,7 @@ body {
   }
   .navigation-menu {
     max-height: 1150px;
+    font-family: Arial, Helvetica, sans-serif;
     padding: 10px;
     border: 2px solid #3e22a5;
     background-color:rgb(35, 22, 66);
@@ -65,7 +77,7 @@ body {
 #titulo {
     font-size: 70px;
     font-family: "japanese_2020";
-    color: rgb(162, 231, 0);
+    color: white;
     border: 2px solid #0077ff; /* Color neon */
     padding: 10px; /* Espacio dentro del borde */
     text-align: center; /* Alineación centrada */
@@ -119,3 +131,164 @@ img{
   padding: 2px;
   font-size: x-large;
 }
+.Parroquia{
+  text-align: center;
+  margin: auto;
+}
+#Toponimia{
+  font-family: "digital_7";
+  font-size: 300%;
+  font-weight: bold;
+}
+#Oficialidad{
+  font-family: "Batman";
+  font-size: x-large;
+}
+#Simbolos{
+  font-family: "digital_7";
+  font-size: 300%;
+  font-weight: bold;
+}
+#Geografia{
+  font-family: "digital_7";
+  font-size: 300%;
+  font-weight: bold;
+}
+#Hidrografia{
+  font-family: "Batman";
+  font-size: x-large;
+}
+#Clima{
+  font-family: "Batman";
+  font-size: x-large;
+}
+#Historia{
+  font-family: "digital_7";
+  font-size: 300%;
+  font-weight: bold;
+}
+#Prehistoria{
+  font-family: "Batman";
+  font-size: x-large;
+}
+#EdadAntigua{
+  font-family: "Batman";
+  font-size: x-large;
+}
+#EdadMedia{
+  font-family: "Batman";
+  font-size: x-large;
+}
+#EdadContemporanea{
+  font-family: "Batman";
+  font-size: x-large;
+}
+#Demografia{
+  font-family: "digital_7";
+  font-size: 300%;
+  font-weight: bold;
+}
+#EvolucionPoblacion{
+  font-family: "Batman";
+  font-size: x-large;
+}
+#EvolucionParroquial{
+  font-family: "Batman";
+  font-size: x-large;
+}
+#Admistracion{
+  font-family: "digital_7";
+  font-size: 300%;
+  font-weight: bold;
+}
+#GobiernoMunicipal{
+  font-family: "Batman";
+  font-size: x-large;
+}
+#OrganizacionTerritorial{
+  font-family: "Batman";
+  font-size: x-large;
+}
+#RepresentacionConsular{
+  font-family: "Batman";
+  font-size: x-large;
+}
+#Economia{
+  font-family: "digital_7";
+  font-size: 300%;
+  font-weight: bold;
+}
+#MillaConocimiento{
+  font-family: "Batman";
+  font-size: x-large;
+}
+#CentrosComerciales{
+  font-family: "Batman";
+  font-size: x-large;
+}
+#Servicios{
+  font-family: "digital_7";
+  font-size: 300%;
+  font-weight: bold;
+}
+#Educacion{
+  font-family: "Batman";
+  font-size: x-large;
+}
+#Sanidad{
+  font-family: "Batman";
+  font-size: x-large;
+}
+#Empresasmunicipales{
+  font-family: "Batman";
+  font-size: x-large;
+}
+#Transporte{
+  font-family: "digital_7";
+  font-size: 300%;
+  font-weight: bold;
+}
+#Terrestre{
+  font-family: "Batman";
+  font-size: x-large;
+}
+#Patrimonio{
+  font-family: "Batman";
+  font-size: x-large;
+}
+#Cultura{
+  font-family: "Batman";
+  font-size: x-large;
+}
+.Otrapag{
+font-family: "Batman";
+font-size: large;
+margin: 0;
+padding: 0;
+display: flex;
+justify-content: center;
+align-items: center;
+ height: 10vh;
+ background: #2B213A;
+}
+.btnneon{
+position: relative;
+display: inline-block;
+padding: 15px 30px;
+color: #fff;
+letter-spacing: 4px;
+font-size: 24px;
+text-decoration: none;
+overflow: hidden;
+transition: 0.2s;
+}
+.btnneon:hover{
+  background: #a945c7;
+  box-shadow: 0 0 10px #a945c7, 0 0 40px #a945c7, 0 0 80px #a945c7 ;
+}
+.btn-neon span{
+  position: absolute;
+  display: block;
+}
+
+

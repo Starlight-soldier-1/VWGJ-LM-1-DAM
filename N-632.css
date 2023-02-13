@@ -1,0 +1,142 @@
+@font-face {
+    font-family: "Xeno";
+    src: url("Fuentes/xenosphere/xenosphere.ttf");
+  }
+@font-face {
+    font-family: "Eth";
+    src: url("Fuentes/ethnocentric/ethnocentric\ rg.otf");
+  }
+.Titulo{
+    text-align: center;
+    background-color: mediumpurple;
+    font-family: "Xeno";
+    font-size: xx-large;
+    border: solid 0px mediumpurple;
+    animation: neon 1s ease-in-out infinite alternate;
+}
+.Titulo:hover{
+    background: pink;
+    box-shadow: 0 0 10px pink, 0 0 40px pink, 0 0 80px pink;
+    transition: 1s;
+}
+@keyframes neon {
+    to {
+      box-shadow: 0 0 20px #ff008c;
+    }
+  }
+.menu-desplegable {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .menu-desplegable button {
+    background-color: #880882;
+    color: #000000;
+    padding: 10px 60px;
+    cursor: pointer;
+    border: none;
+    font-family: "Xeno";
+    font-size: x-large;
+  }
+  
+  .contenido-desplegable {
+    display: none;
+    position: absolute;
+    z-index: 1;
+    background-color: lightgrey;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  }
+  
+  .contenido-desplegable ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  
+  .contenido-desplegable ul ul {
+    padding-left: 20px;
+  }
+  
+  .contenido-desplegable li {
+    display: block;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  .contenido-desplegable li ul {
+    display: none;
+  }
+  
+  .menu-desplegable:hover .contenido-desplegable {
+    display: block;
+  }
+li{
+    font-family: sans-serif;
+}
+#Recorrido{
+    text-align: center;
+    background-color: mediumpurple;
+    font-family: "Xeno";
+    font-size: xx-large;
+    border: solid 0px mediumpurple;
+    animation: neon 1s ease-in-out infinite alternate;
+}
+#Recorrido:hover{
+    background: pink;
+    box-shadow: 0 0 10px pink, 0 0 40px pink, 0 0 80px pink;
+    transition: 1s;
+}
+@keyframes neon {
+    to {
+      box-shadow: 0 0 20px #ff008c;
+    }
+  }
+.Tramos{
+    text-align: center;
+    background-color: rgba(147, 112, 216, 0.671);
+    font-family: "Eth";
+    font-size: x-large;
+    border: solid 0px mediumpurple;
+    animation: neon 1s ease-in-out infinite alternate;
+}
+.Tramos:hover{
+    background: pink;
+    box-shadow: 0 0 10px pink, 0 0 40px pink, 0 0 80px pink;
+    transition: 1s;
+}
+#NYA{
+    text-align: center;
+    background-color: mediumpurple;
+    font-family: "Xeno";
+    font-size: xx-large;
+    border: solid 0px mediumpurple;
+    animation: neon 1s ease-in-out infinite alternate;
+}
+#NYA:hover{
+    background: pink;
+    box-shadow: 0 0 10px pink, 0 0 40px pink, 0 0 80px pink;
+    transition: 1s;
+}
+@keyframes neon {
+    to {
+      box-shadow: 0 0 20px #ff008c;
+    }
+  }
+#Ubi{
+    text-align: center;
+    background-color: mediumpurple;
+    font-family: "Xeno";
+    font-size: xx-large;
+    border: solid 0px mediumpurple;
+    animation: neon 1s ease-in-out infinite alternate;
+}
+#Ubi:hover{
+    background: pink;
+    box-shadow: 0 0 10px pink, 0 0 40px pink, 0 0 80px pink;
+    transition: 1s;
+}
+@keyframes neon {
+    to {
+      box-shadow: 0 0 20px #ff008c;
+    }
+  }

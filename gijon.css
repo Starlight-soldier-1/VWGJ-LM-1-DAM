@@ -290,5 +290,8 @@ transition: 0.2s;
   position: absolute;
   display: block;
 }
-
+footer{
+  font-family: "Batman";
+  text-align: center;
+}
 

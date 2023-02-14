@@ -147,7 +147,6 @@ li{
 table, th, td {
     border: 2px solid;
     padding: 14px;
-    animation: neon 1s ease-in-out infinite alternate;
     margin: auto;
     background-color: pink;
     font-size: large;
@@ -306,4 +305,8 @@ footer{
 }
 .FotoR{
   text-align: center;
+}
+a{
+  color: mediumorchid;
+  font-family: sans-serif;
 }

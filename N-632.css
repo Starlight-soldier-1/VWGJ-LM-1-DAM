@@ -176,3 +176,134 @@ table, th, td {
     width: 55px;
     margin: 1px; 
   }
+  #Noticias{
+    text-align: center;
+    background-color: mediumpurple;
+    font-family: "Xeno";
+    font-size: xx-large;
+    border: solid 0px mediumpurple;
+    animation: neon 1s ease-in-out infinite alternate;
+}
+#Noticias:hover{
+    background: pink;
+    box-shadow: 0 0 10px pink, 0 0 40px pink, 0 0 80px pink;
+    transition: 1s;
+}
+@keyframes neon {
+    to {
+      box-shadow: 0 0 20px #ff008c;
+    }
+  }
+  #Noticia1{
+    text-align: center;
+    background-color: rgba(147, 112, 216, 0.671);
+    font-family: "Eth";
+    font-size: x-large;
+    border: solid 0px mediumpurple;
+    animation: neon 1s ease-in-out infinite alternate;
+}
+#Noticia1:hover{
+    background: pink;
+    box-shadow: 0 0 10px pink, 0 0 40px pink, 0 0 80px pink;
+    transition: 1s;
+}
+#Noticia2{
+  text-align: center;
+  background-color: rgba(147, 112, 216, 0.671);
+  font-family: "Eth";
+  font-size: x-large;
+  border: solid 0px mediumpurple;
+  animation: neon 1s ease-in-out infinite alternate;
+}
+#Noticia2:hover{
+  background: pink;
+  box-shadow: 0 0 10px pink, 0 0 40px pink, 0 0 80px pink;
+  transition: 1s;
+}
+#fan{
+  text-align: center;
+  background-color: mediumpurple;
+  font-family: "Xeno";
+  font-size: xx-large;
+  border: solid 0px mediumpurple;
+  animation: neon 1s ease-in-out infinite alternate;
+}
+#fan:hover{
+  background: pink;
+  box-shadow: 0 0 10px pink, 0 0 40px pink, 0 0 80px pink;
+  transition: 1s;
+}
+@keyframes neon {
+  to {
+    box-shadow: 0 0 20px #ff008c;
+  }
+}
+#Tramo1{
+  text-align: center;
+  background-color: rgba(147, 112, 216, 0.671);
+  font-family: "Eth";
+  font-size: x-large;
+  border: solid 0px mediumpurple;
+  animation: neon 1s ease-in-out infinite alternate;
+}
+#Tramo1:hover{
+  background: pink;
+  box-shadow: 0 0 10px pink, 0 0 40px pink, 0 0 80px pink;
+  transition: 1s;
+}
+#Tramo2{
+  text-align: center;
+  background-color: rgba(147, 112, 216, 0.671);
+  font-family: "Eth";
+  font-size: x-large;
+  border: solid 0px mediumpurple;
+  animation: neon 1s ease-in-out infinite alternate;
+}
+#Tramo2:hover{
+  background: pink;
+  box-shadow: 0 0 10px pink, 0 0 40px pink, 0 0 80px pink;
+  transition: 1s;
+}
+
+#Tramo3{
+  text-align: center;
+  background-color: rgba(147, 112, 216, 0.671);
+  font-family: "Eth";
+  font-size: x-large;
+  border: solid 0px mediumpurple;
+  animation: neon 1s ease-in-out infinite alternate;
+}
+#Tramo3:hover{
+  background: pink;
+  box-shadow: 0 0 10px pink, 0 0 40px pink, 0 0 80px pink;
+  transition: 1s;
+}
+#Deja{
+  text-align: center;
+  color: white;
+  background-color: black;
+  font-family: "Eth";
+  font-size: x-large;
+  border: solid 0px mediumpurple;
+  animation: neon 1s ease-in-out infinite alternate;
+}
+#Deja:hover{
+  background: pink;
+  box-shadow: 0 0 10px pink, 0 0 40px pink, 0 0 80px pink;
+  transition: 1s;
+}
+.Formulario{
+  text-align: center;
+  font-family: "Air";
+}
+footer{
+  font-family: "Air";
+}
+#RecorridoFoto{
+  height: 400px;
+  width: 900px;
+  align-items: center;
+}
+.FotoR{
+  text-align: center;
+}

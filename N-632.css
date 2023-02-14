@@ -6,6 +6,10 @@
     font-family: "Eth";
     src: url("Fuentes/ethnocentric/ethnocentric\ rg.otf");
   }
+  @font-face {
+    font-family: "Air";
+    src: url("Fuentes/airstrike/airstrike.ttf");
+  }
 .Titulo{
     text-align: center;
     background-color: mediumpurple;
@@ -30,7 +34,7 @@
   }
   
   .menu-desplegable button {
-    background-color: #880882;
+    background-color: #7300A3;
     color: #000000;
     padding: 10px 60px;
     cursor: pointer;
@@ -139,4 +143,36 @@ li{
     to {
       box-shadow: 0 0 20px #ff008c;
     }
+  }
+table, th, td {
+    border: 2px solid;
+    padding: 14px;
+    animation: neon 1s ease-in-out infinite alternate;
+    margin: auto;
+    background-color: pink;
+    font-size: large;
+    font-family: "Air";
+    text-align: center;
+  }
+  body{
+    margin: 30px;
+  }
+  p{
+    font-family: Arial, Helvetica, sans-serif;
+   font-size: medium; 
+  }
+  #Senial{
+    height: 125px;
+    width: 185px;
+    margin: 10px;
+  }
+  #cajetin{
+  width: 90px;
+  height: 20px;
+  display: inline-block;
+  }
+  #Autopista{
+    height: 45px;
+    width: 55px;
+    margin: 1px; 
   }

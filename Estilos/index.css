@@ -1,6 +1,6 @@
 @font-face {
     font-family: "Batman";
-    src: url("Fuentes/batman_forever/batmfa__.ttf");
+    src: url("../Fuentes/batman_forever/batmfa__.ttf");
   }
 body{
     display: inline-flex;

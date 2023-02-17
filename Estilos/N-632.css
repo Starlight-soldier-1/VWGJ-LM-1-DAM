@@ -1,17 +1,18 @@
 @font-face {
     font-family: "Xeno";
-    src: url("Fuentes/xenosphere/xenosphere.ttf");
+    src: url("../Fuentes/xenosphere/xenosphere.ttf");
   }
 @font-face {
     font-family: "Eth";
-    src: url("Fuentes/ethnocentric/ethnocentric\ rg.otf");
+    src: url("../Fuentes/ethnocentric/ethnocentric\ rg.otf");
   }
   @font-face {
     font-family: "Air";
-    src: url("Fuentes/airstrike/airstrike.ttf");
+    src: url("../Fuentes/airstrike/airstrike.ttf");
   }
 .Titulo{
     text-align: center;
+    width: 100%;
     background-color: mediumpurple;
     font-family: "Xeno";
     font-size: xx-large;
@@ -31,10 +32,13 @@
 .menu-desplegable {
     position: relative;
     display: inline-block;
+    width: 100%;
   }
   
   .menu-desplegable button {
     background-color: #7300A3;
+    width: 100%;
+    text-align: start;
     color: #000000;
     padding: 10px 60px;
     cursor: pointer;

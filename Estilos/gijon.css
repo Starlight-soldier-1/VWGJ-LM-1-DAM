@@ -1,14 +1,14 @@
 @font-face {
   font-family: "japanese_2020";
-  src: url("Fuentes/japanese_2020/JAPANESE_2020.ttf");
+  src: url("../Fuentes/japanese_2020/JAPANESE_2020.ttf");
 }
 @font-face {
   font-family: "digital_7";
-  src: url("Fuentes/digital_7/digital-7\ \(mono\).ttf");
+  src: url("../Fuentes/digital_7/digital-7.ttf");
 }
 @font-face {
   font-family: "Batman";
-  src: url("Fuentes/batman_forever/batmfa__.ttf");
+  src: url("../Fuentes/batman_forever/batmfa__.ttf");
 }
 .bandera{
   width: 100px;

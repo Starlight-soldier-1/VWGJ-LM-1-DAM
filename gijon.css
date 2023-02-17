@@ -27,7 +27,8 @@ body {
     color: rgb(0, 219, 235);
   }
   .navigation-menu {
-    max-height: 1150px;
+    max-height: 1230px;
+    min-height: 1200px;
     font-family: Arial, Helvetica, sans-serif;
     padding: 10px;
     border: 2px solid #3e22a5;

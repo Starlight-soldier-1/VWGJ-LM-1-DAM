@@ -4,7 +4,7 @@
   }
 body{
     display: inline-flex;
-    background-image: url(Imagenes/vapor1.gif);
+    background-image: url(../Imagenes/vapor1.gif);
     background-repeat: no-repeat;
     background-size: cover;
     align-items: center;
